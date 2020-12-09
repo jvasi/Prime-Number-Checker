@@ -1,4 +1,4 @@
-Distributed prime number generator searcher.
+Distributed prime number searcher.
 
 It connects to a number of remote number checker services, sends them a number to check for primeness and accumulates the results.
 
