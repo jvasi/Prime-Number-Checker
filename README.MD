@@ -1,6 +1,6 @@
 Distributed prime number generator searcher.
 
-It connects to a number of remote private number checker services, sends them a number to check for primeness and accumulates the results.
+It connects to a number of remote number checker services, sends them a number to check for primeness and accumulates the results.
 
 To start the checker execute:
 ```
